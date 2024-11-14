@@ -6,6 +6,8 @@
 
 ## Contact Me!
 [<img src='https://raw.githubusercontent.com/proyectox123/proyectox123/master/images/icons/linkedin.png' alt='linkedin' height='32'>]
+&nbsp;&nbsp;
+[<img src='https://raw.githubusercontent.com/proyectox123/proyectox123/master/images/icons/instagram.png' alt='instagram' height='32'>](https://www.instagram.com/platacabello/)
 ## Lenguajes and Tools
 
 <!---
