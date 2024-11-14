@@ -17,6 +17,7 @@
 
 ## Stadistics
 ![SilverHairJM GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverHairJM&show_icons=true&theme=transparent)
+&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilverHairJM&layout=compact&theme=vision-friendly-dark)
 <!---
 SilverHairJM/SilverHairJM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
