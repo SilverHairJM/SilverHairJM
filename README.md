@@ -11,7 +11,7 @@
 ## Lenguajes and Tools
 
 ## Stadistics
-![Stats](http://github-readme-streak-stats.herokuapp.com?user=SilverHairJM&theme=dark&background=000000)
+![SilverHairJM GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <!---
 SilverHairJM/SilverHairJM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
