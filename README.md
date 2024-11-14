@@ -8,10 +8,10 @@
 [<img src='https://raw.githubusercontent.com/proyectox123/proyectox123/master/images/icons/linkedin.png' alt='linkedin' height='32'>](www.linkedin.com/in/jose-manuel-plata-cabello-1781b0338)
 &nbsp;&nbsp;
 [<img src='https://raw.githubusercontent.com/proyectox123/proyectox123/master/images/icons/instagram.png' alt='instagram' height='32'>](https://www.instagram.com/platacabello/)
+
 ## Lenguajes and Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
