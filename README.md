@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I'm "La Mera Pistola"
 
 ## Contact Me!
-[<img src='https://raw.githubusercontent.com/proyectox123/proyectox123/master/images/icons/linkedin.png' alt='linkedin' height='32'>]
+[<img src='https://raw.githubusercontent.com/proyectox123/proyectox123/master/images/icons/linkedin.png' alt='linkedin' height='32'>](www.linkedin.com/in/jose-manuel-plata-cabello-1781b0338)
 &nbsp;&nbsp;
 [<img src='https://raw.githubusercontent.com/proyectox123/proyectox123/master/images/icons/instagram.png' alt='instagram' height='32'>](https://www.instagram.com/platacabello/)
 ## Lenguajes and Tools
